@@ -1,9 +1,9 @@
 <?php
 
     require_once "./config/app.php";
-    require_once "./controllers/viewsController.php";
+    require_once "./controllers/controllerViews.php";
 
-    $plantilla = new viewsController();
-    $plantilla -> obtener_plantilla_controlador();
+    $template = new controllerViews();
+    $template -> controller_get_template();
 
 ?>

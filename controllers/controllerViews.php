@@ -6,7 +6,7 @@
 
         /*  --  Controller for getting the template  -- */
         public function controller_get_template() {
-            return require_once "./views/template.php";
+            return require_once "./views/templates/template.php";
         }
 
         /*  --  Controller for getting the different views  -- */
