@@ -11,7 +11,7 @@
             <li>
                 <a href="../templates/lenders.php">
                     <span class="icon"><ion-icon name="calendar-outline"></ion-icon></span>
-                    <span class="title">Lenders</span>
+                    <span class="title">Properties</span>
                 </a>
             </li>
             <li>
@@ -23,7 +23,7 @@
             <li>
                 <a href="../templates/properties.php">
                     <span class="icon"><ion-icon name="business-outline"></ion-icon></span>
-                    <span class="title">Properties</span>
+                    <span class="title">Lenders</span>
                 </a>
             </li>
             <li>
